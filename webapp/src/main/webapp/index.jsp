@@ -1,5 +1,5 @@
   <div class="container">
 
-   <h1> Tesekur </h1>
+   <h1> Tessekurler </h1>
 
   </div>
